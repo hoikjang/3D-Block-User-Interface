@@ -1,6 +1,6 @@
 
 
-[![Video Label](http://img.youtube.com/vi/TSCF4gao91M/0.jpg)]
+[![Video Label](http://img.youtube.com/vi/TSCF4gao91M/0.jpg)](https://youtu.be/TSCF4gao91M)
 
 
 
